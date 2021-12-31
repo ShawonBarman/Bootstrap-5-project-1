@@ -1,0 +1,27 @@
+/* header css coding start here */
+header nav a.navbar-brand{
+    font-weight: 600;
+}
+
+header nav .navbar-nav a.nav-link {
+    color: floralwhite !important;
+    font-weight: 400;
+}
+/* header css coding end here */
+
+/* contact css coding start here */
+.contact{
+    background-color: beige;
+}
+/* contact css coding end here */
+
+/* footer css coding start here */
+footer a{
+    text-decoration: none;
+    color: #fff;
+}
+footer a:hover{
+    color: rgb(159, 136, 241);
+    text-decoration: underline;
+}
+/* footer css coding end here */
